@@ -74,7 +74,7 @@ Lengkap dan estetik - dari web applications sampai mobile apps dan IoT projects!
 </div>
 
 ## 🎵 Currently Vibing To 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/330ade75165f4e8f8207fab95908cf5c)
+[![Spotify](https://novatorem-ten-jet.vercel.app/api/spotify)](https://open.spotify.com/user/330ade75165f4e8f8207fab95908cf5c)
 
 ## 🤝 Let's Connect!
 
