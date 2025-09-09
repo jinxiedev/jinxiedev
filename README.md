@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Jinshi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Frontend+Enthusiast;Full+Stack+Developer;IoT+%26+Mobile+Explorer;Code+%26+Coffee+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Frontend+Enthusiast;Full+Stack+Developer;IoT+%26+Mobile+Explorer;Code+%26+Coffee+Lover" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
