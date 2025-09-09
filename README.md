@@ -39,11 +39,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shinbrot&theme=tokyonight&hide_border=false&show_icons=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinbrot&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ### 💻 My Tech Experience (Real World Projects)
@@ -70,7 +70,7 @@ Lengkap dan estetik - dari web applications sampai mobile apps dan IoT projects!
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1b27&color=be90f2&line=638fda&point=35bcbf&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shinbrot&bg_color=1a1b27&color=be90f2&line=638fda&point=35bcbf&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🎵 Currently Vibing To
@@ -90,7 +90,7 @@ Lengkap dan estetik - dari web applications sampai mobile apps dan IoT projects!
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shinbrot&color=blueviolet" alt="Profile Views" />
   
   ### ⭐ *"Code with passion, debug with coffee"* ☕
   
