@@ -1,4 +1,4 @@
-# Hi there, I'm Shinbrot! 👋
+# Hi there, I'm Jinxie! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Job+Board+Enthusiast;API+Builder;Always+Learning!" alt="Typing SVG" />
@@ -8,11 +8,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 **Currently Working On**: Job Board API with Flutter frontend
+- 🔭 **Currently Working On**: Job Board API with Flutter frontend, also known as Shinboo
 - 🌱 **Learning**: Advanced Python frameworks, Flutter development, and API design
 - 💼 **Passion**: Building practical web applications that solve real problems
 - 🎯 **Goal**: Creating seamless user experiences with robust backend systems
-- 📫 **How to reach me**: [Your Email](mailto:your.email@example.com)
+- 📫 **How to reach me**: [Your Email](mailto:jinshiivy@gmail.com)
 
 ---
 
