@@ -1,23 +1,25 @@
-# 👋 Hi, I'm Jinshi  
+# 👋 Hey there, I'm Jinshi
 
-💻 **Front-end dominant**, tapi bisa full-stack ala kadarnya.  
-Ngoding mostly buat hobi, tapi kalo ada **client + cuan** ya bisa jadi serius 😆.  
-
-🌱 Lagi sering oprek:  
-- React, Next.js, Vue  
-- Node.js, PHP, CodeIgniter 4  
-- Python (kadang buat script & IoT)  
-- Ruby & Go (iseng belajar aja)  
-
-🗄️ Database yang biasa dipakai:  
-SQLite • MySQL • Supabase • Firebase • MongoDB  
-
-🎯 Mostly a **Solo Coder**.  
-📂 Portfolio & project lengkap: [jinshivalley.xyz](https://www.jinshivalley.xyz)  
+💻 **Front-end wizard**, tapi kadang suka nyemplung ke full-stack kalau mood & ada cuan 😏.  
+Mostly ngoding buat hobi, tapi proyek serius juga bisa jalan 🚀.  
 
 ---
 
-## 🚀 Tech Stack
+## 🌱 Current Playground
+I'm currently tinkering with:  
+- **Frontend:** React, Next.js, Vue  
+- **Backend:** Node.js, PHP, CodeIgniter 4  
+- **Scripting & IoT:** Python  
+- **Just for fun:** Ruby & Go  
+
+---
+
+## 🗄️ Database Arsenal
+SQLite • MySQL • Supabase • Firebase • MongoDB  
+
+---
+
+## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
@@ -49,5 +51,11 @@ SQLite • MySQL • Supabase • Firebase • MongoDB
 
 ---
 
-## 📝 Notes
-> Just a **dumb 🤡** coder who likes to build stuff.
+## 📝 Personal Note
+> Just a **dumb 🤡 coder** who loves to tinker, break things, and build stuff that works (sometimes 😅).  
+> If you're reading this… hi! Maybe we can collab someday. 🌌
+
+---
+
+## 🔗 Portfolio
+Check out my projects & experiments here: [jinshivalley.xyz](https://www.jinshivalley.xyz) 🌟
