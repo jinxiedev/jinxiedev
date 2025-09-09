@@ -74,14 +74,14 @@ Lengkap dan estetik - dari web applications sampai mobile apps dan IoT projects!
 </div>
 
 ## 🎵 Currently Vibing To
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/of2ct0noyld7m68muj9cqphtn)
+[![Spotify](https://spotify-badge.akellbl4.vercel.app/api/spotify?size=64&theme=default)](https://open.spotify.com/user/of2ct0noyld7m68muj9cqphtn)
 
 ## 🤝 Let's Connect!
 
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jinshivalley.xyz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinshiivy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
 
