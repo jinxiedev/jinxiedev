@@ -74,7 +74,7 @@ Lengkap dan estetik - dari web applications sampai mobile apps dan IoT projects!
 </div>
 
 ## 🎵 Currently Vibing To
-[![Spotify](https://spotify-badge.akellbl4.vercel.app/api/spotify?size=64&theme=default)](https://open.spotify.com/user/of2ct0noyld7m68muj9cqphtn)
+![Spotify Now Playing](https://spotify-readme.now.sh/api?user=of2ct0noyld7m68muj9cqphtn)
 
 ## 🤝 Let's Connect!
 
