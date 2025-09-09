@@ -73,8 +73,8 @@ Lengkap dan estetik - dari web applications sampai mobile apps dan IoT projects!
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shinbrot&bg_color=1a1b27&color=be90f2&line=638fda&point=35bcbf&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🎵 Currently Vibing To
-![Spotify Now Playing](https://spotify-readme.now.sh/api?user=of2ct0noyld7m68muj9cqphtn)
+## 🎵 Currently Vibing To 
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/330ade75165f4e8f8207fab95908cf5c)
 
 ## 🤝 Let's Connect!
 
