@@ -1,43 +1,84 @@
-# Jinshi Valley
+# Hi, I'm Jinshi 👋
 
-*frontend — fullstack — iot — mobile*
+Backend Developer focused on building scalable APIs, automation systems, and cloud-powered applications.
 
----
-
-Solo developer with a frontend-first mindset. I build full-stack web apps, Flutter mobile, and the occasional IoT project. Santai tapi bisa serius — tergantung client dan tantangannya.
-
-🌐 **Portfolio**: [jinshivalley.xyz](https://www.jinshivalley.xyz)
-📧 **Email**: [jinshiivy@gmail.com](mailto:jinshiivy@gmail.com)
+I work with backend architecture, REST APIs, databases, and distributed systems — while still having a strong frontend foundation when needed.
 
 ---
 
-## Stack
+## About
 
-| Frontend | Backend | Data & Cloud |
-|----------|---------|--------------|
-| React | Node.js | MySQL |
-| Next.js | PHP / CodeIgniter 4 | MongoDB |
-| Vue.js | Python | Supabase |
-| Flutter | Ruby · Go | Firebase |
+- 🔧 Building backend systems with Python, Go, Node.js, and PHP  
+- ⚙️ Interested in API architecture, automation, and system design  
+- ☁️ Exploring cloud infrastructure, Docker, and distributed services  
+- 📱 Also experienced with Flutter, IoT, and full-stack development  
+- 💼 Open to freelance, collaborations, and interesting projects
+
+Portfolio → https://www.jinshivalley.xyz
 
 ---
 
-## Focus
+## Tech Stack
 
+### Backend
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
+![Go](https://img.shields.io/badge/Go-black?style=flat&logo=go)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat&logo=php)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=flat&logo=sqlite)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=flat&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat&logo=firebase)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+
+---
+
+## Selected Work
+
+### Smart Watering System
+IoT automation project using ESP32, DHT22, soil moisture sensors and automated pump logic.
+
+### Disaster Logistics API
+REST API for disaster relief logistics management built with Django.
+
+### Medireg
+Laravel + Flutter based medical registration system.
+
+### Library Service Quality API
+Survey and reporting API using Django REST Framework.
+
+---
+
+## Current Focus
+
+```text
+Backend Architecture
+REST API Development
+System Design
+Docker & Deployment
+Automation Engineering
 ```
-Frontend        ████████████████████████░░░░░░  68%
-Backend         ████████░░░░░░░░░░░░░░░░░░░░░░  27%
-Mobile & IoT    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%
-```
-
-*Stats include public & private projects.*
 
 ---
 
-## Connect
+## GitHub Stats
 
-[Portfolio](https://www.jinshivalley.xyz) · [Email](mailto:jinshiivy@gmail.com) · [LinkedIn](https://linkedin.com/in/yourprofile) · [Instagram](https://instagram.com/yourhandle)
+![Stats](https://github-readme-stats.vercel.app/api?username=jinxiedev&show_icons=true&hide_border=true&theme=transparent)
 
 ---
 
-*"Code with passion, debug with coffee" — always open for interesting projects.*
+## Contact
+
+- Portfolio: https://www.jinshivalley.xyz
+- Email: jinshiivy@gmail.com
+
+---
+
+> Build simple. Scale later.
