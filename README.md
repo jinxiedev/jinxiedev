@@ -86,7 +86,7 @@ Distributed Services
 ## Contact
 
 - Portfolio → https://www.jinshivalley.xyz  
-- Email → jinshiivy@gmail.com
+- Email → michuanyue@gmail.com
 
 ---
 
